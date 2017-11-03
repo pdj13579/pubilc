@@ -1,0 +1,16 @@
+@charset "utf-8";
+@import url(common.css);
+
+
+/* 회원_sub1-1 목록 */
+
+.layer_control_btn .ion-arrow-up-b { font-size: 12pt;  }
+.hide {display: none;}
+.file { width:0; height:0; }
+
+/* 회원_sub1-1 그룹회원 코드관리 */
+/*
+.selec1 { color:#d5d5d5; }
+.selec1 > option { color:#656565; }
+
+*/

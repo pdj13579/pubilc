@@ -1,0 +1,48 @@
+body{
+scrollbar-face-color: #393939; 
+scrollbar-shadow-color: #282828; 
+scrollbar-highlight-color: #282828; 
+scrollbar-3dlight-color:#282828; 
+scrollbar-darkshadow-color:#282828; 
+scrollbar-track-color: #282828; 
+scrollbar-arrow-color:#ffffff;
+
+BACKGROUND-COLOR:#282828;
+font-family: µ¸¿ò;
+font-size:12px;
+color:#666666;
+} 
+
+
+A:link    {font-family: µ¸¿ò;font-size:12px;color:#666666;text-decoration:none;}
+A:visited {font-family: µ¸¿ò;font-size:12px;color:#666666;text-decoration:none;}
+A:active  {font-family: µ¸¿ò;font-size:12px;color:#666666;text-decoration:none;}
+A:hover  {font-family: µ¸¿ò;font-size:12px;color:#87060c;text-decoration:underline;}
+
+INPUT {
+	FONT-SIZE: 12px; COLOR: #585858; FONT-FAMILY: Arial,Helvetica, geneva,sans-serif; HEIGHT: 20px; BACKGROUND-COLOR: #ffffff
+}
+
+
+SELECT {
+	FONT-SIZE: 12px; COLOR: #585858; FONT-FAMILY: Arial,Helvetica, geneva,sans-serif; BACKGROUND-COLOR: #ffffff
+}
+
+
+
+.navi {  
+	FONT-FAMILY: "µ¸¿ò", "±¼¸²", "Verdana", "Helvetica"; FONT-SIZE: 12px; LINE-HEIGHT: 14pt;  COLOR: #555555}
+
+.navi A:active {
+	FONT-FAMILY: "µ¸¿ò", "±¼¸²", "Verdana", "Helvetica"; FONT-SIZE: 12px; LINE-HEIGHT: 14pt;  COLOR: #555555; TEXT-DECORATION: none}
+
+.navi A:visited {
+	FONT-FAMILY: "µ¸¿ò", "±¼¸²", "Verdana", "Helvetica"; FONT-SIZE: 12px; LINE-HEIGHT: 14pt;  COLOR: #555555; TEXT-DECORATION: none}
+
+.navi A:hover {  
+	FONT-FAMILY: "µ¸¿ò", "±¼¸²", "Verdana", "Helvetica"; FONT-SIZE: 12px; LINE-HEIGHT: 14pt;  COLOR: #ff8a00; TEXT-DECORATION: underline}
+
+.navi A:link {
+	FONT-FAMILY: "µ¸¿ò", "±¼¸²", "Verdana", "Helvetica"; FONT-SIZE: 12px; LINE-HEIGHT: 14pt;  COLOR: #555555; TEXT-DECORATION: none}
+
+.navi_select {  FONT-FAMILY: "µ¸¿ò", "±¼¸²", "Verdana", "Helvetica"; FONT-SIZE: 12px; LINE-HEIGHT: 14pt; COLOR: #282828; font-weight:bold}
