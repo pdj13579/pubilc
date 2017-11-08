@@ -1,6 +1,6 @@
-package model;
+package com.survey.model;
 
-public class ServeyVO {
+public class SurveyVO {
 	private int surveyIdx;
 	private String startDate;
 	private String endDate;

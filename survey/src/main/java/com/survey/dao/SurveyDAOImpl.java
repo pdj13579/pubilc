@@ -1,20 +1,20 @@
-package dao;
+package com.survey.dao;
 
 import org.springframework.stereotype.Repository;
 
-import model.ServeyVO;
+import com.survey.model.SurveyVO;
 
 @Repository
 public class SurveyDAOImpl implements SurveyDAO {
 
 	@Override
-	public boolean InsertSurvey(ServeyVO vo) {
+	public boolean InsertSurvey(SurveyVO vo) {
 		// TODO Auto-generated method stub
 		return false;
 	}
 
 	@Override
-	public boolean UpdateSurvey(ServeyVO vo) {
+	public boolean UpdateSurvey(SurveyVO vo) {
 		// TODO Auto-generated method stub
 		return false;
 	}

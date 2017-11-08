@@ -1,4 +1,4 @@
-package model;
+package com.survey.model;
 
 public class QuestionVO {
 	private int surveyIdx;
